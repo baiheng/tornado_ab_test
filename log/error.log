@@ -1,0 +1,873 @@
+Traceback (most recent call last):
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 41, in <module>
+    x
+NameError: name 'x' is not defined
+Traceback (most recent call last):
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 41, in <module>
+    x
+NameError: name 'x' is not defined
+Traceback (most recent call last):
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 41, in <module>
+    x
+NameError: name 'x' is not defined
+Traceback (most recent call last):
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 41, in <module>
+    x
+NameError: name 'x' is not defined
+Traceback (most recent call last):
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 47, in <module>
+    http_server.listen(options.port)
+  File "/usr/local/python27/lib/python2.7/site-packages/tornado/tcpserver.py", line 117, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/usr/local/python27/lib/python2.7/site-packages/tornado/netutil.py", line 104, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/local/python27/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 47, in <module>
+    http_server.listen(options.port)
+  File "/usr/local/python27/lib/python2.7/site-packages/tornado/tcpserver.py", line 117, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/usr/local/python27/lib/python2.7/site-packages/tornado/netutil.py", line 104, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/local/python27/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 47, in <module>
+    http_server.listen(options.port)
+  File "/usr/local/python27/lib/python2.7/site-packages/tornado/tcpserver.py", line 117, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/usr/local/python27/lib/python2.7/site-packages/tornado/netutil.py", line 104, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/local/python27/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 47, in <module>
+    http_server.listen(options.port)
+  File "/usr/local/python27/lib/python2.7/site-packages/tornado/tcpserver.py", line 117, in listen
+    sockets = bind_sockets(port, address=address)
+  File "/usr/local/python27/lib/python2.7/site-packages/tornado/netutil.py", line 104, in bind_sockets
+    sock.bind(sockaddr)
+  File "/usr/local/python27/lib/python2.7/socket.py", line 224, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 42
+    def end()
+            ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 42
+    def end()
+            ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 42
+    def end()
+            ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 42
+    def end()
+            ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 9, in <module>
+    import asynhandle
+  File "/usr/local/x/tornadotest/src/asynhandle.py", line 48
+    for line in traceback.format_exception(*exc_info)]
+                                                     ^
+SyntaxError: unmatched ']'
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 9, in <module>
+    import asynhandle
+  File "/usr/local/x/tornadotest/src/asynhandle.py", line 48
+    for line in traceback.format_exception(*exc_info)]
+                                                     ^
+SyntaxError: unmatched ']'
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 9, in <module>
+    import asynhandle
+  File "/usr/local/x/tornadotest/src/asynhandle.py", line 48
+    for line in traceback.format_exception(*exc_info)]
+                                                     ^
+SyntaxError: unmatched ']'
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 9, in <module>
+    import asynhandle
+  File "/usr/local/x/tornadotest/src/asynhandle.py", line 48
+    for line in traceback.format_exception(*exc_info)]
+                                                     ^
+SyntaxError: unmatched ']'
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15
+    metavar="debug|info|warning|error|none")
+   ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15
+    metavar="debug|info|warning|error|none")
+   ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15
+    metavar="debug|info|warning|error|none")
+   ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15
+    metavar="debug|info|warning|error|none")
+   ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15
+    metavar="debug|info|warning|error|none")
+   ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15
+    metavar="debug|info|warning|error|none")
+   ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15
+    metavar="debug|info|warning|error|none")
+   ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15
+    metavar="debug|info|warning|error|none")
+   ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15
+    metavar="debug|info|warning|error|none")
+   ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug':True,
+          ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug':True,
+          ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug':True,
+          ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug':True,
+          ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug':True
+          ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug':True
+          ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug':True
+          ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug':True
+          ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+SyntaxError: keyword can't be an expression
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+SyntaxError: keyword can't be an expression
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+SyntaxError: keyword can't be an expression
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+SyntaxError: keyword can't be an expression
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug' : True,
+           ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug' : True,
+           ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug' : True,
+           ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 18
+    'debug' : True,
+           ^
+SyntaxError: invalid syntax
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 15, in <module>
+    metavar="debug|info|warning|error|none")
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 503, in define
+    callback=callback)
+  File "/usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/options.py", line 192, in define
+    (name, self._options[name].file_name))
+Error: Option 'logging' already defined in /usr/local/src/pypy-2.2.1-linux/site-packages/tornado-3.2-py2.7.egg/tornado/log.py
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 23, in <module>
+    http_server.listen(sys.argv[1])
+IndexError: list index out of range
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 23, in <module>
+    http_server.listen(sys.argv[1])
+IndexError: list index out of range
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 23, in <module>
+    http_server.listen(sys.argv[1])
+IndexError: list index out of range
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+Traceback (most recent call last):
+  File "app_main.py", line 72, in run_toplevel
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 23, in <module>
+    http_server.listen(sys.argv[1])
+IndexError: list index out of range
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libssl.so.0.9.8: no version information available (required by pypy)
+pypy: /usr/lib/libcrypto.so.0.9.8: no version information available (required by pypy)
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 21
+    app = tornado.web.Application(handlers=[(r"/tornadotest/", asynhandle.handler)],settings)
+SyntaxError: non-keyword arg after keyword arg
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 19, in <module>
+    
+AttributeError: type object 'handler' has no attribute 'log_after_request'
+  File "/usr/local/x/tornadotest/src/tornadotest.py", line 19, in <module>
+    
+AttributeError: type object 'handler' has no attribute 'log_after_request'
